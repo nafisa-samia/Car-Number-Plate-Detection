@@ -1,5 +1,7 @@
 # Car Number Plate Detection using OpenCV and EasyOCR
 
+A machine learning project that can detect car number plate text. In this project, the number plate image is read and visualized using OpenCV and Python and then the text is extracted using EasyOCR.
+
 (N.B This is a running project for one of my masters course)
 
 ### Steps which are followed
